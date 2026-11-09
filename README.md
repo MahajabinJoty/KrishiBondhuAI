@@ -1,9 +1,6 @@
 # KrishiBondhuAI
 AI-powered agricultural assistance platform for farmers in Bangladesh
 
-# Project Description
-KrishiBondhu AI is an AI-powered web platform designed to help farmers in Bangladesh with preliminary crop disease screening, Bengali farming assistance, fertilizer calculation support, and weather-based agricultural advisory.
-
 # Team Information
 - Team Name: CSE4104-7B-T04
 - Section: 7B
@@ -31,4 +28,8 @@ KrishiBondhu AI is an AI-powered web platform designed to help farmers in Bangla
 - AI Integration: Google Gemini API
 - Voice Input: JavaScript Web Speech API
 - Weather Information: Weather API
+
+# Project Description
+KrishiBondhu AI is an AI-powered web platform designed to help farmers in Bangladesh with preliminary crop disease screening, Bengali farming assistance, fertilizer calculation support, and weather-based agricultural advisory.
+  
 
